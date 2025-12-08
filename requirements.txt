@@ -1,0 +1,11 @@
+streamlit
+pymysql
+bcrypt
+fpdf2
+PyMuPDF
+pandas
+google-genai
+langdetect
+requests
+beautifulsoup4
+python-docx
